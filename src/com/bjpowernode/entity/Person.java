@@ -6,6 +6,6 @@ package com.bjpowernode.entity;
  */
 public class Person {
     public static void main(String[] args) {
-
+        int i = 1;
     }
 }
