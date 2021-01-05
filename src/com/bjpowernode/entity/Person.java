@@ -5,5 +5,7 @@ package com.bjpowernode.entity;
  * @Date 2021/1/5 8:54
  */
 public class Person {
+    public static void main(String[] args) {
 
+    }
 }
